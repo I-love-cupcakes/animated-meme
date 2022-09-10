@@ -1,0 +1,61 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+   font-size: 23px;
+   width: 100%;
+   margin: 0px;
+   background-color: #1A535C;
+   color: white;
+}
+
+#start
+{
+    font-size: 18px;
+    background-color: #CA1551;
+    color: white;
+}
+
+#status 
+{
+    font-size: 18px;
+    background-color: #03CEA4;
+    color: black;
+}
+
+#number_of_objects
+{
+    font-size: 18px;
+    background-color: #FB4D3D;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #1F363D;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFE66D;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.note
+{
+   font-size: 15px;
+   width: 100%;
+   margin: 0px;
+   background-color: #1A535C;
+   color: white;
+}
